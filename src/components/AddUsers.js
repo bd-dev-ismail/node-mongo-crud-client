@@ -55,7 +55,7 @@ const AddUsers = () => {
           <input
             onBlur={handalInputBlur}
             type="email"
-            name="User email"
+            name="email"
             id=""
             placeholder="Email"
             required
